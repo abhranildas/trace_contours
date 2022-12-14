@@ -1,5 +1,5 @@
 # Trace Contours [![View trace_contours on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/121802-trace_contours)
-Matlab function to trace contours from a binary image.
+Matlab function to trace sequential pixel coordinates of all contours in a binary image.
 ## Author
 Abhranil Das & Wilson Geisler, Center for Perceptual Systems, The University of Texas at Austin.
 
